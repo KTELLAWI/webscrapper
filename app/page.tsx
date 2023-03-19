@@ -1,6 +1,5 @@
 
 import React from 'react'
-import {useTranslations} from 'next-intl';
 import { MagnifyingGlassIcon,CircleStackIcon } from '@heroicons/react/24/solid';
 
 function HomePage() {
