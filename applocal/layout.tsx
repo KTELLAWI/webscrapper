@@ -2,7 +2,6 @@
 
 import {ReactNode} from 'react';
 import ClientProvider from "../components/ClientProvider";
-import Header from "../components/Header";
 import Sidebar from "../components/Sidebar";
 import '../styles/globals.css'
 
